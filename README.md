@@ -48,6 +48,5 @@ Requires a valid bearer token for authentication.
 
 *** ERROR/INCOMPLETION ***
 
-- Due to some initially poor data modelling choices, there is a DB error which only allows one document to be uploaded to the Mongo Cluster - This error only came up at the point 2 attempt task 1.2 as it requires a 2nd user to transfer to/from. Due to the time constraints of the task I decided it would be better to priotize other aspects of the task than continue debugging, therefore tasks 1.2 and 1.3 were not able to be included within the timelimit. I believe thet underlying logic would of been fairly simple and would be more than happy to explain how I would of approached said tasks/
-
+- Due to some initially poor data modelling choices, there is a DB error which only allows one document to be uploaded to the Mongo Cluster - This error only came up at the point 2 attempt task 1.2 as it requires a 2nd user to transfer to/from. Due to the time constraints of the task I decided it would be better to priotize other aspects of the task than continue debugging.
 
